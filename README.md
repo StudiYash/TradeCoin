@@ -41,7 +41,7 @@
 **TradeCoin** is a mock Android application designed to showcase:  
 
 - **UI/UX Skills :** Guided by Shneiderman’s Eight Golden Rules: Ensuring a high-quality user experience.
-- **Product Thinking :** 10 fully designed screens with clickable button flows.
+- **Product Thinking :** 38 fully designed screens with clickable button flows.
 - **User-friendly interface :** Interface designed for mock trading, investment, and stock price analysis. 
 - **Custom Logo :** Distinct brand identity integrated throughout the app.
 - **Color-Coded Buttons :** Intuitive layout in different colors which has a carefully chosen **Yellow + Black + Green theme** and additional design elements in **White, Blue, and Red**. 
@@ -57,7 +57,7 @@ This flowchart **maps out** how users navigate through the app, depicting the **
 
 ## Project Application Images 📝
 
-The **Project Application Images** folder includes images of all the 10 windows present inside `TradeCoin.apk`. Images are designed for versatility and optimized for showcasing application strengths.  
+The **Project Application Images** folder includes images of all the 38 windows present inside `TradeCoin.apk`. Images are designed for versatility and optimized for showcasing application strengths.  
 
 All windows in `TradeCoin.apk` were consturcted by following the **Shneiderman’s Eight Golden Rules of Interface Design** which are as follows:
 - Strive for consistency.
