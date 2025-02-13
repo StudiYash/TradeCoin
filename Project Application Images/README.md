@@ -4,7 +4,15 @@ Welcome to the **Project Application Images** folder! 🎨 This directory contai
 
 ## Overview 📌 
 
-This folder houses **10 high-quality** images representing different screens of the **TradeCoin** app. Each image provides a visual reference for the application's layout, helping designers, developers, and stakeholders understand the flow, interactions, and overall aesthetics of the app.
+This folder houses **38 high-quality** images representing different screens of the **TradeCoin** app. Each image provides a visual reference for the application's layout, helping designers, developers, and stakeholders understand the flow, interactions, and overall aesthetics of the app.
+
+These images have been sorted in 6 different folders as follows :
+- `# Welcome Pages`
+- `1) Watchlists`
+- `2) Scanner`
+- `3) Portfolio`
+- `4) News`
+- `5) Profile`
 
 For a detailed overview of all the relations between these application windows and buttons present on them, refer the `Project Flowchart` by clicking the button below.
 
